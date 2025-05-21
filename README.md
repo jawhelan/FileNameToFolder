@@ -48,7 +48,8 @@ P:\Library\Audiobooks\
 ## 🛠 Requirements
 
 - Windows 10/11  
-- PowerShell (built-in)  
+- PowerShell (built-in) 
+   
 - Files stored in a **flat folder** (not inside subfolders)  
 - Both `.ps1` and `.bat` files in the same folder
 
