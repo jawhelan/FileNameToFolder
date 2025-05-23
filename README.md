@@ -123,4 +123,4 @@ Make sure each `.pdf` has a matching `.mp3` or `.m4b` file with the same base na
 
 ## 🏁 License
 
-This script is free to use, modify, and distribute. No attribution required.
+This project is licensed under the [MIT License](LICENSE).
